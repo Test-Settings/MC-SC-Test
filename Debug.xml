@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParameterSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Commands />
+	<Parameters>
+		<Parameter Name="MOTIONCODE_PARAMETER_UI32_01" TargetValue="0" Comment="myCommand (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_UI32_02" TargetValue="0" Comment="myStatus (r)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_UI32_03" TargetValue="0" Comment="programState (r)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_UI32_04" TargetValue="10" Comment="debounceTime [ms] (rws)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_50" TargetValue="1" Comment="motionParameterStoreCommand (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_40" TargetValue="0" Comment="debug1 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_41" TargetValue="0" Comment="debug2 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_42" TargetValue="0" Comment="debug3 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_43" TargetValue="0" Comment="debug4 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_44" TargetValue="0" Comment="debug5 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_45" TargetValue="0" Comment="debug6 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_46" TargetValue="0" Comment="debug7 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_47" TargetValue="0" Comment="debug8 (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_48" TargetValue="0" Comment="debug9 (rw)" />
+	</Parameters>
+</ParameterSet>

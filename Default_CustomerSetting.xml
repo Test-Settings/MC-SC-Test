@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParameterSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Commands />
+	<Parameters>
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_50" TargetValue="0" Comment="motionParameterStoreCommand (rw)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_UI32_04" TargetValue="10" Comment="debounceTime [ms] (rws)" />
+		<Parameter Name="MOTIONCODE_PARAMETER_I32_50" TargetValue="1" Comment="motionParameterStoreCommand (rw)" />
+	</Parameters>
+</ParameterSet>
